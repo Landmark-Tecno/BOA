@@ -1,0 +1,3 @@
+pwd
+whoami
+hostname -l
